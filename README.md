@@ -10,7 +10,7 @@ We can record the screen in 1080p, 720p resolution with mentioning the video nam
 
 
 ----------------------------------------------------------------------------
-##Download the computer application from the below link to use it directly 
+### Download the computer application from the below link to use it directly 
                                                                            
 https://drive.google.com/file/d/1JhxZ0w96WkN6sMi6qojksKZHlsPQVvua/view 
 
